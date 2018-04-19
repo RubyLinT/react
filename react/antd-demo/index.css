@@ -1,0 +1,32 @@
+
+html, body, #root,.container,.ant-layout  {
+  height: 100%;
+}
+.active {
+  color:#0cc;
+}
+.ant-layout-header,.ant-layout-sider,.ant-layout-content,.ant-layout-footer {
+  background: #fff;
+  color: #000;
+}
+.ant-layout-header {
+  border-bottom: 1px solid #e8e8e8;
+  padding:0 20px;
+}
+.ant-layout-content {
+  display: flex;
+}
+.Outter {
+  padding: 10px;
+  flex: 1;
+}
+.add {
+  margin-bottom:10px;
+  margin-right:10px;
+}
+.linkStyle {
+  cursor: pointer;
+}
+.linkStyle:hover {
+  color:#00BCD4
+}

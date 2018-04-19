@@ -1,0 +1,12 @@
+.ant-menu-inline {
+    min-height: 100%;
+}
+.right {
+    float: right;
+}
+.right i:hover {
+    color:#00BCD4
+}
+.right a {
+    color: rgba(0, 0, 0, 0.65);
+}

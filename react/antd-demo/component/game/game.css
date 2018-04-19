@@ -1,0 +1,9 @@
+.textarea {
+    border:none;
+    outline: none;
+    overflow: auto;
+    resize:none;
+}
+.textarea:focus {
+    box-shadow:0 0 0 0 #fff
+}

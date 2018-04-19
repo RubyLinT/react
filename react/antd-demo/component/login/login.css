@@ -1,0 +1,9 @@
+.loginBox {
+    height: 100%;
+}
+.loginInner {
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

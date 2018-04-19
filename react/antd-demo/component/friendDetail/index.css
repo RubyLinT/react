@@ -1,0 +1,14 @@
+.detailBox {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.detailBox .ant-avatar > * {
+    line-height: 100px;
+}
+.detailBox > * {
+    margin-top: 10px;
+}
+.detailBox p {
+    color:rgba(0, 0, 0, 0.65)
+}
